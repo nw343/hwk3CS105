@@ -1,6 +1,7 @@
-Flagstaff College Education:
-Spend 2 years at NAU college
++ Flagstaff College Education:
++ Spend 2 years at NAU college
 
-Well done
++ Well done
 
-Make Five commits
++ Make Five commits
++ Nathan Wohead was here
